@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "7be76dad860ce50f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2468a8c9ac0e05d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be634bb6e956fb1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پروژه ها/نگین عدالت/تحلیل رقبا.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "تحلیل رقبا"
+            }
+          },
+          {
+            "id": "e8f994c7cf7b6f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پروژه ها/نگین عدالت/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "93c33203453322cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پروژه ها/نگین عدالت/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fd79439a03e19335",
+    "type": "split",
+    "children": [
+      {
+        "id": "704f1691649ccccf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d58a05be90efc8f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "116eecbdaeb9c778",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d8f500b60699641a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d644c8a2206026cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "8014297954d66ad2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a63bc93e35ecdee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "شرایط paypal/حساب پرسنال.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for حساب پرسنال"
+            }
+          },
+          {
+            "id": "fdce392f77a3e9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "شرایط paypal/حساب پرسنال.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from حساب پرسنال"
+            }
+          },
+          {
+            "id": "f119fc0a94b45d0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5cc6e5615bf31b40",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "شرایط paypal/حساب پرسنال.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of حساب پرسنال"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "be634bb6e956fb1b",
+  "lastOpenFiles": [
+    "پروژه ها/نگین عدالت/Untitled.md",
+    "پروژه ها/نگین عدالت/تحلیل رقبا.md",
+    "پروژه ها/نگین عدالت/Untitled 1.md",
+    "پروژه ها/برای سایت babia.to/برای scraper.md",
+    "پروژه ها/نگین عدالت/negin-edalat.ir.md",
+    "پروژه ها/نگین عدالت/Untitled.canvas",
+    "پروژه ها/نگین عدالت/کلمات برای سئو.md",
+    "پروژه ها/نگین عدالت/کلمات کلیدیl.md",
+    "پرامت ها/پرامت برای سئو.md",
+    "پروژه ها/نگین عدالت",
+    "SEO/افزونه ها/ایرانی.md",
+    "SEO/اصطلاح ها و لغت.md",
+    "SEO/افزونه ها",
+    "Untitled",
+    "پرامت ها",
+    "اکانت/vpn/acount free vpn.md",
+    "سایت",
+    "اکانت",
+    "سیستم عامل/ubunto/command ubunto.md",
+    "آموزش",
+    "سیستم عامل",
+    "پروژه ها/برای main map/قابلیت ها.md",
+    "kianreza49@gmail.com.md",
+    "مهاحرت/دوره‌های فنی‌حرفه‌ای در اسپانیا.md",
+    "مهاحرت",
+    "شرایط paypal/Paypal Personal Account.md",
+    "شرایط paypal/حساب پرسنال.md",
+    "SEO",
+    "پروژه ها/Untitled.md",
+    "بهینه سازی/نکاتی که از هوش مصنوعی بپرسم.md",
+    "بهینه سازی/چک لیست برای بهینه سازی.md",
+    "بهینه سازی/بررسی پلاگین های برای بهینه سازی.md",
+    "ساعت کارکرد/ساعات کارکرد.md",
+    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_3.md",
+    "کد ها دستور های ملی پیامک/کد های پترن.md",
+    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_2.md",
+    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_1.md",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
+}
