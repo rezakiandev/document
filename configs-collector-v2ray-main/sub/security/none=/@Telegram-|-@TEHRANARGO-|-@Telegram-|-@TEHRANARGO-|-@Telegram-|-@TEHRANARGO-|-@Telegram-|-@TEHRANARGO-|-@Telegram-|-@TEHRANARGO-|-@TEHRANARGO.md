@@ -1,0 +1,5 @@
+trojan://pq7hakfr-qxj3-u47t-ocxn-ninzuy39evvb@127.0.0.1:1080?security=tls&type=tcp#[ LAST UPDATE: 2025-06-21 | 22:59 ]
+trojan://vt0ej3n7-spmt-ttof-4wh8-37kleap38vax@127.0.0.1:2080?security=tls&type=tcp#「 ✨ Free Internet For All 」 @OXNET_IR
+trojan://pukcuni1-1fkn-dcut-o2ci-kpjygdsvfbes@127.0.0.1:3080?security=tls&type=tcp#❤️ Your Daily Dose of Proxies @OXNET_IR
+vless://2a66e7e4-0bc2-4255-9bf0-7428f7258714@91.207.18.223:11904?type=tcp&security=none=/@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@Telegram-|-@TEHRANARGO-|-@TEHRANARGO#IR 🇮🇷 ┇ VLESS-TCP-NONE=/@TELEGRAM-|-@TEHRANARGO-|-@TELEGRAM-|-@TEHRANARGO-|-@TELEGRAM-|-@TEHRANARGO-|-@TELEGRAM-|-@TEHRANARGO-|-@TELEGRAM-|-@TEHRANARGO-|-@TEHRANARGO ┇ 91.207.18.223
+trojan://qblfhbb2-4gbr-4txb-xcou-uskf670vvnpn@127.0.0.1:8080?security=tls&type=tcp#</> Collector v21.0.0 @OXNET_IR

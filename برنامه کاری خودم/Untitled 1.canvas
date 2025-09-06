@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"6ad066cc7c018441","type":"text","text":"چرا میخوای برنامه نویس بشی","x":-100,"y":-120,"width":250,"height":60},
+		{"id":"3563d89b8fba189b","x":-100,"y":0,"width":250,"height":60,"type":"text","text":"از فضای طراحی سایت و نرم افزارو سخت افزار خوش میاد \n"},
+		{"id":"881bde4543e06ecd","x":-500,"y":160,"width":250,"height":60,"type":"text","text":"از انبارهای که تاحالا کسی داخلش نرفته هم خوشم میاد"},
+		{"id":"5a006c8866888338","x":-70,"y":160,"width":190,"height":60,"type":"text","text":"جالب وناشناخته بود برام "},
+		{"id":"1049128744a78752","x":-110,"y":340,"width":270,"height":50,"type":"text","text":"شاید پیدا کردن چیزهای جالب یا هجان انگیز"},
+		{"id":"64547fd87b7f158d","x":-100,"y":538,"width":250,"height":60,"type":"text","text":"حس تک بودن اون حالت اولیه که یه چیز ناب پیدا میکنی "},
+		{"id":"eb68a337bee9b70f","x":-100,"y":800,"width":250,"height":60,"type":"text","text":"شاید برای دیده شدن و در عین حال مخفی بدون"},
+		{"id":"d4f39e1544ddb1aa","x":857,"y":12,"width":250,"height":60,"type":"text","text":"تا بتونم اون ملودی های که توی سرم هستش رو تبدیل کنم به یه قطعه"},
+		{"id":"61dc9df7d5421721","x":857,"y":-120,"width":250,"height":60,"type":"text","text":"چرا میخوای اهنگساز بشی"},
+		{"id":"d85732aa09a42cc3","x":857,"y":300,"width":250,"height":100,"type":"text","text":"بیشتر بخواتر حالت های که میتونه یه حس داشته باشه تنهای نفرت عشق طغیان قیام انقلاب ارامش تهی"},
+		{"id":"cbf25cce702ed3bd","x":857,"y":460,"width":250,"height":100,"type":"text","text":"اشتراک بذارم شاید باعث و دلیل بشه\nمیتونه عشق باشه میتونه نقرت باشه میتونه انقلاب باشه منشا اثر بدون"},
+		{"id":"eca39e27decc8922","x":857,"y":140,"width":250,"height":100,"type":"text","text":"شاید دوست دارم خروجی داشته باشه و اون حس رو بقیه هم داشته باشن یک حس انتقال یک حس"},
+		{"id":"bab302ffa26632df","x":857,"y":640,"width":250,"height":60,"type":"text","text":"چون احساس میکنم خاص هستم چون احساس میکنم یک اثر ناب تولید میکنم\nاحساس میکنم میتونم در یک احساس شریک باشم در یک اتفاق"}
+	],
+	"edges":[
+		{"id":"1516525a10ad3d3d","fromNode":"6ad066cc7c018441","fromSide":"bottom","toNode":"3563d89b8fba189b","toSide":"top","label":"چرا"},
+		{"id":"6f00d531a45d7993","fromNode":"3563d89b8fba189b","fromSide":"bottom","toNode":"5a006c8866888338","toSide":"top","label":"چرا"},
+		{"id":"3a041c68390447a9","fromNode":"5a006c8866888338","fromSide":"left","toNode":"881bde4543e06ecd","toSide":"right"},
+		{"id":"fa1a52ddee7bf57f","fromNode":"5a006c8866888338","fromSide":"bottom","toNode":"1049128744a78752","toSide":"top","label":"چرا"},
+		{"id":"87874c3e3b516559","fromNode":"1049128744a78752","fromSide":"bottom","toNode":"64547fd87b7f158d","toSide":"top","label":"چرا"},
+		{"id":"83e061962f50770e","fromNode":"64547fd87b7f158d","fromSide":"bottom","toNode":"eb68a337bee9b70f","toSide":"top","label":"چرا"},
+		{"id":"7992389331c29fb8","fromNode":"61dc9df7d5421721","fromSide":"bottom","toNode":"d4f39e1544ddb1aa","toSide":"top","label":"چرا"},
+		{"id":"49deb88e9d44abf8","fromNode":"d4f39e1544ddb1aa","fromSide":"bottom","toNode":"eca39e27decc8922","toSide":"top","label":"چرا"},
+		{"id":"6b52548a6089cf50","fromNode":"eca39e27decc8922","fromSide":"bottom","toNode":"d85732aa09a42cc3","toSide":"top","label":"چرا"},
+		{"id":"65080401043cb0ea","fromNode":"d85732aa09a42cc3","fromSide":"bottom","toNode":"cbf25cce702ed3bd","toSide":"top","label":"چرا"},
+		{"id":"1f824d15a2439517","fromNode":"cbf25cce702ed3bd","fromSide":"bottom","toNode":"bab302ffa26632df","toSide":"top"}
+	]
+}

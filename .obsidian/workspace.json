@@ -8,48 +8,41 @@
         "type": "tabs",
         "children": [
           {
-            "id": "be634bb6e956fb1b",
+            "id": "422f05dde2e5ef2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "مهاحرت/دوره‌های فنی‌حرفه‌ای در اسپانیا.md",
-                "mode": "source",
-                "source": false
+                "file": "برنامه کاری خودم/Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 278.9999889135365,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "دوره‌های فنی‌حرفه‌ای در اسپانیا"
-            }
-          },
-          {
-            "id": "e8f994c7cf7b6f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "پروژه ها/نگین عدالت/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "93c33203453322cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "پروژه ها/نگین عدالت/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
+              "icon": "lucide-layout-dashboard",
               "title": "Untitled 1"
             }
+          },
+          {
+            "id": "1add7c71c590293b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "برنامه کاری خودم/Untitled.canvas",
+                "viewState": {
+                  "x": -534.1766989453578,
+                  "y": 1124.533227880716,
+                  "zoom": -2.5999999999999996
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "شرایط paypal/حساب پرسنال.md",
+                "file": "5ubscrpt10n-main/full/5ubscrpt10n.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for حساب پرسنال"
+              "title": "Backlinks for 5ubscrpt10n"
             }
           },
           {
@@ -183,6 +176,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -191,45 +185,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be634bb6e956fb1b",
+  "active": "1add7c71c590293b",
   "lastOpenFiles": [
-    "مهاحرت/بصورت تحصیلی.md",
-    "پروژه ها/نگین عدالت/لیست نهایی کلمات.md",
-    "پروژه ها/نگین عدالت/لیست رقبا.md",
-    "پروژه ها/نگین عدالت/تحلیل رقبا.md",
-    "پروژه ها/نگین عدالت/کلمات کلیدیl.md",
-    "پروژه ها/نگین عدالت/کلمات برای سئو.md",
-    "پروژه ها/نگین عدالت/negin-edalat.ir.md",
-    "پروژه ها/نگین عدالت/Untitled.canvas",
-    "پروژه ها/برای سایت babia.to/برای scraper.md",
-    "پرامت ها/پرامت برای سئو.md",
-    "پروژه ها/نگین عدالت",
-    "SEO/افزونه ها/ایرانی.md",
-    "SEO/اصطلاح ها و لغت.md",
-    "SEO/افزونه ها",
-    "Untitled",
-    "پرامت ها",
-    "اکانت/vpn/acount free vpn.md",
-    "سایت",
-    "اکانت",
-    "سیستم عامل/ubunto/command ubunto.md",
-    "آموزش",
-    "سیستم عامل",
-    "پروژه ها/برای main map/قابلیت ها.md",
-    "kianreza49@gmail.com.md",
-    "مهاحرت/دوره‌های فنی‌حرفه‌ای در اسپانیا.md",
-    "مهاحرت",
-    "شرایط paypal/Paypal Personal Account.md",
-    "شرایط paypal/حساب پرسنال.md",
-    "SEO",
-    "پروژه ها/Untitled.md",
-    "بهینه سازی/نکاتی که از هوش مصنوعی بپرسم.md",
-    "بهینه سازی/چک لیست برای بهینه سازی.md",
-    "بهینه سازی/بررسی پلاگین های برای بهینه سازی.md",
+    "برنامه کاری خودم/Untitled 1.canvas",
+    "Untitled.md",
+    "Untitled 1.md",
+    "برنامه کاری خودم/Untitled.canvas",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "برنامه کاری خودم/برای کسب درامد وتخصص (چی کارم).md",
+    "woodiart/Untitled.md",
+    "برنامه کاری خودم",
+    "Untitled/Untitled.md",
+    "سایت های تازه پیدا میکنم.md",
+    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_1.md",
     "ساعت کارکرد/ساعات کارکرد.md",
-    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_3.md",
-    "کد ها دستور های ملی پیامک/کد های پترن.md",
-    "پروژه ها/نقشه راه برای پروژه اسکرپ/phase_2.md",
+    "پروژه ها/scraper English/comment youtube & x.md",
+    "configs-collector-v2ray-main/sub/countries/AE.md",
+    "پروژه ها/نگین عدالت/پیش نیاز سئو.md",
+    "سیستم عامل/short key win/win.md",
+    "مهاحرت/دوره‌های فنی‌حرفه‌ای در اسپانیا.md",
+    "مهاحرت/بصورت تحصیلی.md",
+    "Untitled 2/Untitled.md",
+    "Untitled 1/Untitled.md",
+    "Untitled 3/Untitled.canvas",
+    "tor/vmess.md",
+    "tor/Untitled 5.md",
+    "tor/https.md",
+    "tor/http.md",
+    "پرامت ها/پرامت برای سئو.md",
+    "پرامت ها/پرامت برای تحقیق رقبا.md",
+    "اکانت/vpn/acount free vpn.md",
+    "woodiart",
+    "Untitled 3",
+    "Untitled 2",
+    "5ubscrpt10n-main/working/package.json",
+    "5ubscrpt10n-main/working/package-lock.json",
+    "5ubscrpt10n-main/working/online-sources.json",
+    "5ubscrpt10n-main/working/manual-links.json",
+    "5ubscrpt10n-main/working/links.json",
+    "5ubscrpt10n-main/working/index.js",
+    "پروژه ها/نگین عدالت/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
